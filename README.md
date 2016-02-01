@@ -3,7 +3,7 @@ Documentation
 
 This repository will contain markdown documentation of each repository and their systems as well as workflow instructions
 
-See the [wiki](https://github.com/NeverGoneBot/NeverGoneBotDocumentation/wiki) for component specific info 
+See the [wiki](https://github.com/NeverGoneBot/NeverGoneBotDocumentation/wiki) for component specific info (server and hardware info will be added soon)
 
 ###### Repositories
 
