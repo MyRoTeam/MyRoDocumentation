@@ -10,7 +10,6 @@ This repository will contain markdown documentation of each repository and their
 3. [Web](https://github.com/NeverGoneBot/NeverGoneBotWeb)
 4. [Arduino](https://github.com/NeverGoneBot/NeverGoneBotArduino)
 5. [Server](https://github.com/NeverGoneBot/NeverGoneBotServer)
-6. 
 
 Top-Level Data Flow Diagram
 
