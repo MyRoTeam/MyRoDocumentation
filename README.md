@@ -3,6 +3,8 @@ Documentation
 
 This repository will contain markdown documentation of each repository and their systems as well as workflow instructions
 
+See the [wiki](https://github.com/NeverGoneBot/NeverGoneBotDocumentation/wiki) for component specific info 
+
 ###### Repositories
 
 1. [iOS](https://github.com/NeverGoneBot/NeverGoneBotIOS)
